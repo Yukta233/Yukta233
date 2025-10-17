@@ -24,7 +24,7 @@
 ---
 
 ### 🏆 Achievements & Badges
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yuktashree&theme=tokyonight&margin-w=15)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Yukta233&theme=tokyonight&margin-w=15)
 
 ---
 
