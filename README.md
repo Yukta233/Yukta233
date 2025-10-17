@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yukta Shree</h1>
 <h3 align="center">A passionate CSE student who loves building and designing apps/websites</h3>
-
-- 🌱 I’m currently learning **React, AWS Cloud, and UX Research**
-- 💬 Ask me about **Figma, Frontend Design, and Prototyping**
+<h4 align ="centre">Full-stack developer: because fixing one side wasn’t stressful enough.</h4>
+- 🌱 I’m currently learning **System design, Docker and UX research**
+- 💬 Ask me about **Frontend Design, deploying and Prototyping**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yukta-shree-3b2398277/)**
 - ⚡ Fun fact: I design interfaces that *feel human*
 
@@ -10,15 +10,15 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,react,tailwind,html,css,js,nodejs,express,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=figma,react,tailwind,html,css,js,nodejs,express,mongodb,nextjs,PHP,Javascript" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuktashree&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktashree&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yukta233&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukta233&layout=compact&theme=tokyonight" />
 </p>
 
 ---
