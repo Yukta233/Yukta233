@@ -18,12 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yukta233&show_icons=true&theme=tokyonight" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukta233&layout=compact&theme=tokyonight" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=yuktashree&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 ### 📫 Connect with me
