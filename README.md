@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/yukta-shree-3b2398277/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Yukta233/">
+  <a href="https://leetcode.com/Yuktashree/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://twitter.com/fourteensure">
